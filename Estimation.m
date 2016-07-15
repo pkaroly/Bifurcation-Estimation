@@ -120,8 +120,7 @@ for iCase = case_ind
         
     end
 
-    save(['Seizure_Estimates/Seizure' ...
-        num2str(curSz) '_' num2str(iCase)],'xi_hat','P_diag','-v7.3');
+    save(['Seizure_Estimates/Case' num2str(iCase)],'xi_hat','P_diag','-v7.3');
     
     toc
 
