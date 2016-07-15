@@ -1,4 +1,4 @@
-# Bifurcation-Estimation
+# Data-driven Estimation of a Coupled Neural Mass Model during Seizure
 Code for data estimation in 'Bifurcation Analysis of a Network of  Neural Mass Models' (Ahmadizadeh et al. 2016)
 
 
