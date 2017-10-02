@@ -24,10 +24,7 @@ Code for bifurcation
 
 ### Files
 
-* **Estimation.m**: the main script to run estimation
-* **prop_mean_and_cov.m, generateData.m, g.m**: call functions for Estimation
-* **Model1, Model2, Model3**: store the NMM parameters for case I, II and III in the paper
-* **dataRange.mat**: used to scale the data to the model output range for estimation
+
 
 ## References
 
